@@ -1,6 +1,13 @@
 ---
 name: hero-cross-threshold
+slug: hero-cross-threshold
+version: 1.0.0
+displayName: 跨阈护盾·恐惧破壁者
 description: 跨越门槛：克服面对新行业/权威/陌生关系时的恐惧。已下定决心却在怕被拒、怕搞砸、怕守门人时卡住时用它。
+summary: 决心已下却被“怕被拒怕搞砸”卡在门口？帮你真的踏过那道门槛。
+tags: [跨越门槛, 恐惧, 权威恐惧, 陌生领域, 守门人, 被拒恐惧, 破局, 行动卡点, 心理屏障, 自我设限, 新手期, 入场]
+homepage: https://github.com/Dillon-Xue/hero-cross-threshold
+license: MIT
 ---
 
 # 跨越门槛与面对阻抗
